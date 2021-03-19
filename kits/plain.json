@@ -1,0 +1,4 @@
+[
+  { "from": ["index.html", "index.js"], "to": "" },
+  { "from": "img/favicon.ico", "to": "", "kit": "commons" }
+]
